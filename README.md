@@ -4,7 +4,7 @@ What you see is a repository of my solution for task no. 6. of the [Introduction
 
 # Brief description
 
-The task was to TODO
+The task was to write a function solving a decanting puzzle. Its partial results were represented as a graph scanned with BFS. 
 
 # Full description 
 
